@@ -1,0 +1,88 @@
+#contenedor-principal{
+    height: 100%;
+}
+
+#contenedor-secundario{
+    margin-left: 25px;
+}
+
+#titulo{
+    height: 20vh;
+    /* background-color: aliceblue; */
+    /* margin: 0 auto; */
+    /* line-height: 30vh; */
+    /* margin-top: 50px; */
+
+}
+#titulo h1{
+    /* background-color: burlywood; */
+    padding: 48px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+#trabajo-1{
+    margin-left: 40px;
+    margin-right: 40px;
+    /* background-color: darkcyan; */
+}
+
+#fecha {
+    color: white;
+}
+#cargo{
+    /* background-color: violet; */
+    margin-left: 30px;
+    margin-top: 5px;
+}
+#empresa{
+    /* background-color: slateblue; */
+    margin-left: 60px;
+    margin-top: 5px;
+}
+#funciones{
+    margin-left: 90px;
+    /* background-color: slategray; */
+    margin-top: 5px;
+}
+#contenido-funciones{
+    margin-left: 120px;
+    /* background-color: snow; */
+    margin-top: 5px;
+}
+#tiempo{
+    margin-left: 90px;
+    /* background-color: rebeccapurple; */
+    margin-top: 5px;
+
+}
+#resumen{
+    /* background-color: rosybrown; */
+    height: 40px;
+    width: 100%;
+
+}
+#resumen h1{
+    width: 50%;
+    float: left;
+    /* background-color: saddlebrown; */
+    margin-left: 40px;
+
+}
+#resumen #pdf{
+    width: 80px;
+    /* background-color: rgba(65, 105, 225, 0.322); */
+    float: right;
+    margin-right: 100px;
+}
+
+
+
+#texto-p{
+    /* background-color: seagreen; */
+    width: 50%;
+    margin-left: 120px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}

@@ -1,0 +1,51 @@
+
+#title {
+    height: 20vh;
+    background-color: royalblue;
+}
+#title h1{
+    /* background-color: burlywood; */
+    padding: 48px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+#contenido{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: rgb(64, 124, 104);
+    height: 450px;
+    /* margin-left: 75px;
+    padding-left: 75px;
+    padding-top: 20px; */
+    width: 100%;
+}
+#cajas{
+    background-color: rosybrown;
+    align-content: space-between;
+    flex-grow: 1;
+    height: 156px;
+    width: 186px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+img{
+    height: 156px;
+    width: 195px;
+}
+.boton{
+    background-color: rgba(91, 91, 197, 0.705);
+    /* border-radius: 10px; */
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    height: 30px;
+    letter-spacing: 1px;
+    text-align: center;
+    transition: 300ms all;
+    width: 60px;
+    
+}

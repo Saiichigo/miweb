@@ -1,0 +1,11 @@
+#title {
+    height: 20vh;
+    background-color: royalblue;
+}
+#title h1{
+    /* background-color: burlywood; */
+    padding: 48px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
